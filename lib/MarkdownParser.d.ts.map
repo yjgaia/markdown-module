@@ -1,0 +1,1 @@
+{"version":3,"file":"MarkdownParser.d.ts","sourceRoot":"","sources":["../src/MarkdownParser.ts"],"names":[],"mappings":"AAAA,OAAO,YAKN,MAAM,mBAAmB,CAAC;AAE3B,cAAM,cAAc;IACX,KAAK,CAAC,QAAQ,EAAE,MAAM,GAAG,YAAY,EAAE;IA4C9C,OAAO,CAAC,cAAc;IA2BtB,OAAO,CAAC,SAAS;IAoBjB,OAAO,CAAC,cAAc;CAsBvB;;AAED,wBAAoC"}
